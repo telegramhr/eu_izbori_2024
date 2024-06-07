@@ -1,1 +1,4 @@
-# eu_izbori_2024
+# Privremeni rezultati izbora za EU parlament 2024
+
+Podaci preuzeti s APISovih servera tijekom izborne noći.
+
